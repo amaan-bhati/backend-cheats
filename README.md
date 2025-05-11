@@ -2299,6 +2299,8 @@ When developing server applications, [different API formats](https://youtu.be/4v
         > Developed by Google as an alternative and direct competitor to ChatGPT.
     -   [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
         > AI-powered code completion tool developed by GitHub in collaboration with developers of ChatGPT. It integrates with popular code editors and provides real-time suggestions and completions for code as you write.
+    -   [Keploy](https://keploy.io)
+        > AI-powered automation API and Unit testing, the latest UTG pr agent generates unit tests after each file is changed and a pull request is made using diff algorithms.
     -   [Tabnine](https://www.tabnine.com/)
         > An alternative to GitHub Copilot that provides context-sensitive code suggestions based on patterns it learns from millions of publicly available code repositories.
 
